@@ -1,6 +1,6 @@
-# [MeGa shield](https://telegram.me/AntiSpam_shield)
+# [TDT_tg](https://telegram.me/persianTDTch)
 
-**An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU General Public License](https://github.com/hafez16/mega-shield/blob/supergroups/LICENSE)**.
+# [github](https://github.com/persianTDT/TDT_TG) 
 
 | Command | Description |
 |:--------|:------------|
@@ -12,7 +12,7 @@
 * * *
 
 ## Commands
-MeGa-shield has several commands that are only usable at certain ranks.
+TDT_TG has several commands that are only usable at certain ranks.
 
 
 ## General Commands
@@ -221,8 +221,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/hafez16/mega-shield.git
-cd mega-shield
+git clone https://github.com/persianTDT/TDT_TG.git
+cd TDT_TG
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
@@ -231,7 +231,7 @@ chmod +x launch.sh
 To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
 ```sh
 #https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes && git clone https://github.com/hafez16/Tmega-shield.git && cd mega-shield && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes && git clone https://github.com/https://github.com/persianTDT/TDT_TG.git && cd TDT_TG && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 * * *
@@ -268,9 +268,8 @@ Create a realm using the `!createrealm` command.
 
 # Support and development
 
-Check out this [tutorial by Telegram Geeks](http://telegramgeeks.com/2016/01/teleseed-tutorial/) for further assistance with setup and installation.
 
-[hafez (developer)](https://telegram.me/hafez1116hafez)
-[amir hosein (developer)](https://telegram.me/amirho3ien911)
-[mostafa (manager)](https://telegram.me/Eblis_alone)
-[mohammad (sponsor)](https://telegram.me/Mmd_hei)
+[MOHSEN (developer)](https://telegram.me/ciltdt)
+[AMIR (developer)](https://telegram.me/bots_sudo)
+[ASHKAN (manager)](https://telegram.me/Yaghiashkan)
+
